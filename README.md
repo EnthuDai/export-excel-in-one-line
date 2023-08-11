@@ -7,7 +7,8 @@
 ```javascript
 npm install xlsx-js-style
 ```
-2、复制代码文件exportExcel.js至工程
+2、复制代码文件exportExcel.js至工程目录
+
 [https://github.com/EnthuDai/export-excel-in-one-line](https://github.com/EnthuDai/export-excel-in-one-line)
 
 3、在引入excel.js后调用
@@ -116,6 +117,4 @@ Excel.export(this.demoColumn, this.demoData, '测试数据')
 			![在这里插入图片描述](https://img-blog.csdnimg.cn/8242c038d0964a67bb63aa5636391d86.png#pic_left)
 3. 其余部分就是填入数据调api即可，可以参考[使用xlsx.js导出有复杂表头的excel](https://blog.csdn.net/seeflyliu/article/details/109476804)这篇文章，此处空白太小所以不再赘述。
 
-# 源码地址：
-[https://github.com/EnthuDai/export-excel-in-one-line](https://github.com/EnthuDai/export-excel-in-one-line)
-如果该内容对你有帮助，帮忙star一下项目呀
+# 如果该内容对你有帮助，帮忙star一下项目呀
